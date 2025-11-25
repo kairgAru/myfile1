@@ -1,0 +1,35 @@
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(178, 138, 197);
+
+}
+.box1 {
+
+   width: 50%;
+   height: 30%; 
+   background-color: blanchedalmond;
+
+}
+.box2 {
+    font-size: 1em;
+    
+    
+}
+.box3 {
+    font-size: 1.2rem;  
+}
+.text {
+    background-color:#FF1793;
+    color:#F83;
+
+
+}
+.text1 {
+
+    color: rgb(255, 51, 150);
+}
+.text2 {
+
+    color:rgba(74, 239, 187, 0.4);
+}
