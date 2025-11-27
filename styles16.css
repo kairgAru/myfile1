@@ -1,0 +1,50 @@
+.button:hover {
+
+    background-color: rgb(247, 247, 18);
+}
+.input:focus {
+    border-color: #4da9ff; 
+    outline: none
+}
+.li:first-child {
+   background-color: #5fba22;
+}
+
+.li:last-child {
+   background-color: #3015c9;
+}
+.ly:nth-child(odd) {
+      background-color: #ec1a1a;
+}
+.ly:nth-child(even) {
+
+    background-color: aquamarine;
+}
+.a:hover {
+    color: #169bf9;
+}
+
+
+
+
+
+.block p {
+    padding: 10px;
+    background-color: #ddd;
+    margin: 5px 0;
+}
+.block p:first-child {
+    background-color: #aee1ff;
+}
+.block p:first-child:hover {
+    background-color: #4da9ff;
+    color: #fff;
+}
+.block input:last-child {
+    background-color: darkblue;
+}
+.block input:last-child:focus {
+    border-color: #ff4d4d;
+    background-color: #ffe5e5;
+    outline: none;
+}
