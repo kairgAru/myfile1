@@ -1,0 +1,41 @@
+header {
+    height: 1800px;
+}
+
+
+.static {
+    position: static;
+    width: 50px;
+    height: 20px;
+    padding: 20px;
+    margin: 15px;
+}
+
+.relative {
+    position: relative;
+    top: 60px;
+    left: 400px;
+    background-color: rgb(162, 243, 171);
+}
+.conteiner {
+    color: violet;
+}
+.absolute {
+    position: absolute;
+    background-color: blueviolet;
+}
+.fixed {
+    position: fixed;
+    bottom: 50px;
+    right: 30px;
+    
+}
+.sticky {
+    position: sticky;
+    top: 10px;
+    background-color: rgb(242, 110, 233);
+    padding: 10px;
+    margin: 0;
+    border-bottom: 2px solid #ccc;
+    
+} 
